@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <p><i>I surf La Jolla, snowboard, and play poker</i></p>
+  <p><i>I surf, snowboard, and play poker</i></p>
 </div>
 
 <div align="center">
