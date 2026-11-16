@@ -1,8 +1,8 @@
 <div align="center">
   <h1>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=3000&color=FF8C00&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kevin">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=3000&color=F97316&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kevin" alt="Hi, I'm Kevin">
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=3000&color=39D353&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kevin">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=3000&color=216E39&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kevin" alt="Hi, I'm Kevin">
     </picture>
   </h1>
 </div>
